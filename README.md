@@ -17,4 +17,4 @@ jadwal belajar
 - VS Code dan Live Server
 ## Tautan
 - Website: menyusul setelah *deploy* ke Vercel
-- Dibuat oleh: Andi Pratama, SMK Mitra
+- Dibuat oleh: Rendy Putranto, SMKN 1 pasuruan
