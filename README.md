@@ -16,5 +16,5 @@ jadwal belajar
 - Git dan GitHub
 - VS Code dan Live Server
 ## Tautan
-- Website: menyusul setelah *deploy* ke Vercel
+-  Website:https://portofolio-rendy-psi.vercel.app
 - Dibuat oleh: Rendy Putranto, SMKN 1 pasuruan
