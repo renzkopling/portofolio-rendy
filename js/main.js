@@ -165,3 +165,17 @@ const proyek = [
     deskripsi: "Lima fungsi logika yang masing-masing diuji 3 masukan.",
   },
 ];
+// 5. Repositori GitHub terbaru (halaman Proyek)
+const username = "renzkopling";
+const alamatRepo = `https://api.github.com/users/renzkopling/repos`;
+const pilihan = "?sort=updated&per_page=6";
+const daftarRepo = document.querySelector("#daftar-repo");
+const statusRepo = document.querySelector("#status-repo");
+async function ambilRepo() {
+ const response = await fetch(alamatRepo + pilihan);
+ const repos = await response.json();
+ console.log(repos);
+}
+if (daftarRepo) {
+ ambilRepo();
+}
