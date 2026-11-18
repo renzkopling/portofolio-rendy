@@ -1,7 +1,4 @@
-/* Gaya portofolio FadliAlfiyansyah
-   Palet: #1D3557 (utama), #E63946 (aksen), #F1FAEE (latar)
-   Huruf: Poppins (judul), Inter (isi)
-   Tata letak: mobile first, titik ubah 768px (tablet) dan 1024px (laptop) */
+
 
 /* 1. Reset */
 * {
@@ -20,7 +17,7 @@ img {
 :root {
   --warna-utama: #1D3557;
   --warna-judul: #1D3557;
-  --warna-tautan: #E63946;
+  --warna-tautan: #ff0000;
   --warna-latar: #F1FAEE;
   --warna-teks: #333333;
   --warna-kartu: #FFFFFF;
@@ -146,7 +143,7 @@ main {
   display: inline-block;
   padding: 0.75rem 1.5rem;
   border-radius: 6px;
-  background-color: #E63946;
+  background-color: #ce0404;
   color: #FFFFFF;
   font-weight: 600;
   text-decoration: none;
@@ -221,7 +218,7 @@ button {
   padding: 0.75rem 1.5rem;
   border: none;
   border-radius: 6px;
-  background-color: #E63946;
+  background-color: #ff8000;
   color: #FFFFFF;
   font-family: inherit;
   font-size: 1rem;

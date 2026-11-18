@@ -1,4 +1,4 @@
-// JavaScript portofolio Arya Nasrullah
+
 // Dipasang di ketiga halaman dengan defer
 
 // 1. Daftar keahlian (halaman Beranda)
